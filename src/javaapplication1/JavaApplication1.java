@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
  *
- * @author chery1111111111111111111111111111111111111111
+ * @author chery1111111111111111111111111111111111111111 2
  */
 public class JavaApplication1 {
     private static long startTime = System.currentTimeMillis();
